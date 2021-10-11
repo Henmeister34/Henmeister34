@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Henmeister
 - 👀 I’m interested in Coding, Games, Cheats
+- 🌹 I currently know a little bit of discord.js
 - 🌱 I’m currently learning LUA, HTML
 - 📫 How to reach me: Discord Henmeister-.#0001
 
