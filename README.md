@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Henmeister
-- 👀 I’m interested in Coding, Games, Cheats
-- 🌹 I currently know a little bit of discord.js
-- 🌱 I’m currently learning LUA, HTML
-- 📫 How to reach me: Discord Henmeister-.#0001
+- 🌹 I currently know LUA and JS
+- 🌱 I’m currently learning HTML and TypeScript
+- 📫 Need to contact me? Message me on Discord Henmeister-.#0001
 
 <!---
 Henmeister34/Henmeister34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
